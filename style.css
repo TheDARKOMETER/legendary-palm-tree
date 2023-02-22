@@ -10,3 +10,8 @@ h2 {
     color: green;
     opacity: 50%;
 }
+
+h3 {
+    margin: 5px;
+    font-size: 15px;
+}
